@@ -1,0 +1,13 @@
+KitKat|1
+M&Ms|2
+Snickers|3
+Milky Way|4
+Almond Joy|5
+Smarties|6
+AirHeads|7
+Skittles|8
+Jolly Rancher|9
+Twix|10
+Starburst|11
+Butterfinger|12
+Reese's|13
